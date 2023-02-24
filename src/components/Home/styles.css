@@ -5,8 +5,10 @@
   background-image: url("https://th.bing.com/th/id/R.440965407e8c20e45d70580d718c1343?rik=kyfFJqEKyeiEfA&riu=http%3a%2f%2fwww.pngimagesfree.com%2fLOGO%2fK%2fKarnataka-Govt%2fKarnataka-Govt-Logo-PNG.png&ehk=%2fToDA0hFhby8wAubX3TtqfEq2OkrDyfoKDqhIFGvSKc%3d&risl=&pid=ImgRaw&r=0");
   /* opacity: 0.6; */
   background-repeat: no-repeat;
-  background-size: 360px 360px;
+  background-size: 18vw 32vh;
   background-position: center;
+  width: 100vw;
+  height: 100vh;
   /* background-size: contain; */
 }
 /* .bg.background-image {
@@ -23,8 +25,8 @@
 
 .layout {
   /* margin-left: 20px; */
-  width: 100%;
-  height: 722px;
+  width: 100vw;
+  height: 100vh;
 
   display: grid;
   grid:
@@ -55,8 +57,9 @@
   display: flex;
   flex-direction: column;
   margin-top: 2.5%;
-  margin-left: 15%;
+  /* margin-left: 15%; */
   /* width: 50%; */
+  width: 85%;
   /* grid-area: main;
   font-size: 30px;
   color: #3c6255; */
@@ -67,23 +70,24 @@
   height: 250px;
   width: 250px;
   /* float: right; */
-  margin-left: 170px;
+  /* margin-left: 170px; */
   /* justify-content: right; */
 }
 .main h1 {
   grid-area: main;
-  font-size: 35px;
+  font-size: 2.0rem;
   color: #16ff00;
 }
 .main p {
   grid-area: main;
-  font-size: 40px;
+  font-size: 2.0rem;
   color: black;
 }
 .footer {
   display: flex;
   flex-direction: column;
   column-gap: 10px;
+  width: 100%;
   justify-content: center;
   grid-area: footer;
   text-align: center;

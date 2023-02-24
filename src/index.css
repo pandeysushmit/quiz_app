@@ -1,3 +1,6 @@
+/* *{
+  scale:45%;
+} */
 body {
   /* background-color: #e4e4e4; */
   background: url("/public/images/bg.gif");
@@ -32,9 +35,9 @@ div {
 }
 
 .quiz {
-  width: 975px;
+  width: 75%;
   margin: 0 auto;
-  margin-top: 100px;
+  margin-top: 11%;
   border-radius: 10%;
 }
 
