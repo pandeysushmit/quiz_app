@@ -18,7 +18,7 @@
 .header .animation {
   justify-content: left;
   height: 250px;
-  width: 250px;
+  width: 15%;
   /* padding-left: 50px; */
   /* margin-right: 320px; */
 }
@@ -60,6 +60,7 @@
   /* margin-left: 15%; */
   /* width: 50%; */
   width: 85%;
+  /* max-height: 50%; */
   /* grid-area: main;
   font-size: 30px;
   color: #3c6255; */
@@ -68,19 +69,19 @@
 .anim2 {
   justify-content: right;
   height: 250px;
-  width: 250px;
+  width: 15%;
   /* float: right; */
   /* margin-left: 170px; */
   /* justify-content: right; */
 }
 .main h1 {
   grid-area: main;
-  font-size: 2.0rem;
+  font-size: 5vh;
   color: #16ff00;
 }
 .main p {
   grid-area: main;
-  font-size: 2.0rem;
+  font-size:smaller;
   color: black;
 }
 .footer {
