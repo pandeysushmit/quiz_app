@@ -16,7 +16,7 @@
   <a href="#key-features">Key Features</a> •
   <a href="#how-to-use">How To Use</a> •
   <a href="#credits">Credits</a> •
-  <a href="#Contributors-to-this-project">Contributors</a>
+  <a href="#contributors-to-this-project">Contributors</a>
 </p>
 
 ![screenshot](https://raw.githubusercontent.com/pandeysushmit/quiz_app/main/screenshots/intro.gif)
