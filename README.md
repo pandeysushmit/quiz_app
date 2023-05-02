@@ -24,7 +24,7 @@
 ## Screenshots
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/pandeysushmit/quiz_app/main/screenshots/sample.jpg" alt="project" height="400" width="600" >
+<img src="https://raw.githubusercontent.com/pandeysushmit/quiz_app/main/screenshots/sample.jpg" alt="project" height="600" width="900" >
 </p>
 
 ## Key Features
