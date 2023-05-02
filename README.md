@@ -19,7 +19,7 @@
   <a href="#contributors">Contributors</a>
 </p>
 
-![screenshot](https://raw.githubusercontent.com/pandeysushmit/quiz_app/master/screenshots/intro.gif)
+![screenshot](https://raw.githubusercontent.com/pandeysushmit/quiz_app/main/screenshots/intro.gif)
 
 ## Key Features
 
