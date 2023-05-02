@@ -13,11 +13,12 @@
 </p>
 
 <p align="center">
+  <a href="#Screenshots">Screenshots</a> •
   <a href="#key-features">Key Features</a> •
   <a href="#how-to-use">How To Use</a> •
   <a href="#credits">Credits</a> •
   <a href="#contributers-to-this-project">Contributors</a> •
-  <a href="#Screenshots"></a> •
+  
 </p>
 ## Screenshots
 <img src="https://raw.githubusercontent.com/pandeysushmit/quiz_app/main/screenshots/sample.jpg" alt="project" >
