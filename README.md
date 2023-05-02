@@ -53,8 +53,9 @@ $ cd quiz_app
 # Install dependencies for both the server & client sides
 $ cd server
 $ npm install
-$cd client (Open another Terminal for this)
-$npm install
+# Open another Terminal for this
+$ cd client
+$ npm install
 
 # Run the app on client side terminal
 $ npm run start
