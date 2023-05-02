@@ -18,8 +18,7 @@
   <a href="#credits">Credits</a> •
   <a href="#contributers-to-this-project">Contributors</a>
 </p>
-
-![screenshot](https://raw.githubusercontent.com/pandeysushmit/quiz_app/main/screenshots/intro.gif)
+<img src="https://raw.githubusercontent.com/pandeysushmit/quiz_app/main/screenshots/sample.jpg" alt="project" >
 
 ## Key Features
 
