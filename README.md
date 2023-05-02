@@ -20,8 +20,12 @@
   <a href="#contributers-to-this-project">Contributors</a> •
 </p>
 
+
 ## Screenshots
-<img src="https://raw.githubusercontent.com/pandeysushmit/quiz_app/main/screenshots/sample.jpg" alt="project" >
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/pandeysushmit/quiz_app/main/screenshots/sample.jpg" alt="project" height="400" width="600" >
+</p>
 
 ## Key Features
 
