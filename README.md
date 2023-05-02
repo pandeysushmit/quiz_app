@@ -18,8 +18,8 @@
   <a href="#how-to-use">How To Use</a> •
   <a href="#credits">Credits</a> •
   <a href="#contributers-to-this-project">Contributors</a> •
-  
 </p>
+
 ## Screenshots
 <img src="https://raw.githubusercontent.com/pandeysushmit/quiz_app/main/screenshots/sample.jpg" alt="project" >
 
