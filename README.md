@@ -1,7 +1,7 @@
 
 <h1 align="center">
   <br>
-  <a href=""><img src="https://raw.githubusercontent.com/pandeysushmit/quiz_app/main/screenshots/intro.jpg" alt="Markdownify" height="180" width="320"></a>
+  <a href=""><img src="https://raw.githubusercontent.com/pandeysushmit/quiz_app/main/screenshots/logo.jpg" alt="Markdownify" height="180" width="320"></a>
   <br>
   Quiz Wizards
   <br>
