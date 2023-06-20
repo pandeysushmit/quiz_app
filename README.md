@@ -40,9 +40,9 @@
 * Questions Database
   - CRUD Functionality for Question stored on a MongoDB Database.
 * Results Dashboard
-  -Provides Visualisation for Scores implemented by Victory.
+  - Provides Visualisation for Scores implemented by Victory.
 * Scoreboard display after each test
-  -Comprehensive Scores are displayed after each test so that the student can analyse his performances as per the levels.
+  - Comprehensive Scores are displayed after each test so that the student can analyse his performances as per the levels.
 
 ## How To Use
 
