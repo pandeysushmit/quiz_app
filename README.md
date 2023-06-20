@@ -33,11 +33,16 @@
   - Student get to solve questions according to their level of understanding and subsequently improving.
 * Interactive Exercises
   - There are a number of exercises to choose from for practicing the concepts.
-* Kids Friendly Design  
+* Kids Friendly Design
+  - Various Design Elements are choosen while taking Kids' Likes and Comfort Zone.
 * Teachers Dashboard
+  - Provides for managing the questions along with a analysis page for Top Performing Students and Marks Distribution.
 * Questions Database
+  - CRUD Functionality for Question stored on a MongoDB Database.
 * Results Dashboard
+  -Provides Visualisation for Scores implemented by Victory.
 * Scoreboard display after each test
+  -Comprehensive Scores are displayed after each test so that the student can analyse his performances as per the levels.
 
 ## How To Use
 
