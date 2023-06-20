@@ -13,10 +13,10 @@
 </p>
 
 <p align="center">
-  <a href="#Screenshots">Screenshots</a> •
+• <a href="#Screenshots">Screenshots</a> •
   <a href="#key-features">Key Features</a> •
   <a href="#how-to-use">How To Use</a> •
-  <a href="#credits">Credits</a> •
+  <a href="#tools-used">Technology Used</a> •
   <a href="#contributers-to-this-project">Contributors</a> •
 </p>
 
@@ -45,7 +45,7 @@ To clone and run this application, you'll need [Git](https://git-scm.com), [Node
 
 ```bash
 # Clone this repository
-$ git clone https://github.com/pandeysushmit/quiz_app
+$ git clone https://github.com/pandeysushmit/quiz_app.git
 
 # Go into the repository
 $ cd quiz_app
@@ -62,14 +62,11 @@ $ npm run start
 #Run the server side
 $ nodemon
 ```
-## Credits
+## Tools Used
 
-This software uses the following open source packages:
 
-- [MongoDB](https://www.mongodb.com/)
-- [ExpressJS](https://expressjs.com/)
-- [ReactJS](https://react.dev/)
-- [Node.js](https://nodejs.org/)
+
+<img src="https://www.svgrepo.com/download/331488/mongodb.svg" height="50"> <img src="https://www.svgrepo.com/show/330398/express.svg" height="50"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" height="50"> <img src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png" height="50"> <img src="https://upload.wikimedia.org/wikipedia/commons/4/49/Redux.png" height="50"><img src="https://cdn.worldvectorlogo.com/logos/material-ui-1.svg" height="50">
 - Images are taken from <a href="https://www.freepik.com/">Freepik.</a>
 ## Contributers to this Project
 - <a href="https://github.com/rohit-kumar1926">Rohit Kumar</a>
